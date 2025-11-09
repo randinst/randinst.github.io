@@ -1,0 +1,12 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "By Category"
+    url: /categories/
+  - title: "By Tag"
+    url: "/tags/"
+  - title: "Feed"
+    url: /posts/
+  - title: "About"
+    url: /about/
+
