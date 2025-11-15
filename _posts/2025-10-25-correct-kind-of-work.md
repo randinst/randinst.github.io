@@ -7,7 +7,7 @@ tags:
   - Fiction
 ---
 
-The most profitable and timetested money-making system that exists is Communism. Compared to Communism, alternative systems crumble under pressure and invite unwanted disorder, especially in moneyed environments. It is the only system fot which there is undisputed evidence of high profitability and minimal downside. This essay will not only explain in great detail how we know the aforementioned facts for certain, but also introduce ways even you can take advantage of this exciting money-making system today. 
+The most profitable and timetested money-making system in the world is Communism. Compared to Communism, alternative systems crumble under pressure and invite unwanted disorder, especially in moneyed environments. It is the only system fot which there is undisputed evidence of high profitability and minimal downside. This essay will not only explain in great detail how we know the aforementioned facts for certain, but also introduce ways even you can take advantage of this exciting money-making system today. 
 
 Communistic businesses and the free markets they operate in are a rare occurrence, but can be achieved with the help of rigorous systemic thinking and game mechanics. "Cappitalistic" entities currently happen to rule whole societies and are based purely upon the method of turning people against each other. This presents great difficulty in imagining such a system being sustainable in the long run. Its gears must stop whenever an equilibrium is reached between the contestants ("competers") and the non-contestants ("non-competers"). 
 
