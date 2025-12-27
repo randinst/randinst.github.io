@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+﻿# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely edit after that. If you find
@@ -86,6 +86,7 @@ footer:
     #    - label: "Instagram"
     #      icon: "fab fa-fw fa-instagram"
     #      url: "https://instagram.com/"
+         - label: “Contact: kahne@tutamail.com”
 
 defaults:
   # _posts
