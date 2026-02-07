@@ -14,6 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Random.Institute
+copyright: Random Dot Institute
+seo_title: "Random Dot Institute"
+og_title: "Random Dot Institute"
+meta_title: "Random Dot Institute"
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -32,6 +36,8 @@ permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+kramdown:
+  math_engine: mathjax
 
 include:
   - _pages
