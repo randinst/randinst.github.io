@@ -1,0 +1,8 @@
+posts, to show, need dates in titles in their filenames
+
+so template posts can remain, just without dates in their filenames
+
+---
+
+bundle install
+bundle exec jekyll serve
