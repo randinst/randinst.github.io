@@ -88,7 +88,7 @@ Having started off as types of mainstream internet phonebooks in the mid-to-late
 | Sloth      | 0.8 | 0.6 | 0.2 |
 | Total    | 6.2 / 7 | 5.6 / 7 | 5.3 / 7 |
 
-![Player motivation totals for the rise of social media](/assets/images/social_media.png)
+![Player motivation totals for social media](/assets/images/social_media.png)
 
 On social platforms, the majority of users and content creators could be speculated to be moderately to highly slothful, as we can generalize from looking at both the high usage (low Sloth) and the way they publish and interact (high Sloth).
 
