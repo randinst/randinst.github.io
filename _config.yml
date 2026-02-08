@@ -13,16 +13,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Random.Institute
-copyright: Random Dot Institute
+title: "Random.Institute"
+copyright: "Random Dot Institute"
 seo_title: "Random Dot Institute"
 og_title: "Random Dot Institute"
 meta_title: "Random Dot Institute"
+title_separator: "-"
+name: "Random Dot Institute"
+url: "https://random.institute"
 email:
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: "" # this means to ignore newlines until "baseurl:"
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: default # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
