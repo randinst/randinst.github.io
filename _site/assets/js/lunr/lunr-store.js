@@ -16,4 +16,10 @@ var store = [{
         "tags": ["Short"],
         "url": "/funnies/abandoned-waterpark/",
         "teaser": null
+      },{
+        "title": "The Sindex",
+        "excerpt":"Apologies due in advance to Dante, and a warning to the unsuspecting mind about the lack of rigor and rampant pseudomathematics of the following text. The premise begins with the recognition of the ancients’ ingenuity in defining human vices in religious texts with clear bounds. Certain limits appear to have...","categories": ["Design"],
+        "tags": ["Models"],
+        "url": "/design/the-sindex/",
+        "teaser": null
       }]
