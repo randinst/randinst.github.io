@@ -1,6 +1,7 @@
 ---
 title: " " 
-layout: splash
+layout: splash 
+author_profile: false
 permalink: /
 hidden: true
 # header:
