@@ -26,6 +26,7 @@ description: "" # this means to ignore newlines until "baseurl:"
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: default # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+powered_by: false
 search: false
 
 # Build settings
