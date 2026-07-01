@@ -28,4 +28,10 @@ var store = [{
         "tags": ["Fiction"],
         "url": "/funnies/the-lisp/",
         "teaser": null
+      },{
+        "title": "Notes on operationalization",
+        "excerpt":"You may not be able to describe a thing if you are using that thing to describe itself. You may be able to describe what it does but not what it is. Persistent controlled processes breaking down tend to produce more fallout compared to short-lived ones. If the methods of...","categories": ["POS"],
+        "tags": ["Models"],
+        "url": "/pos/operationalization-notes/",
+        "teaser": null
       }]
