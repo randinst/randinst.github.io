@@ -15,7 +15,7 @@ It is worth first admitting the logical convenience in criticisms of operational
 
 The first section, not much unlike the others, is effectively an interpretation of [Goodhart’s law](https://en.wikipedia.org/wiki/Goodhart%27s_law) that uses [Alfred Korzybski’s terminology](https://en.wikipedia.org/wiki/Map%E2%80%93territory_relation) to make its points. The text is semiformal and could see amendment or removal of parts in the future.
 
-## 1
+1
 
 Concerning models and reality, it is likely that the meaning of their divergence is not the same in all scenarios, where the same mistake makes for different implications that do not necessarily have to follow the same story.
 
@@ -35,7 +35,7 @@ Secondary Propositions
 
 – Where the notion of fundamental territory (such as certain laws) does not exist, the initial territory is completely replaced by the new territory. There is no foundation to remain.
 
-## 2
+2
 
 A decision-maker must operationalize both the system and himself as the interactor with all his extensions. 
 
@@ -47,7 +47,7 @@ To be completed, the model without the interactor can be assigned and tolerate u
 
 The statements turn out to be parallel also to [Stafford Beer’s work in management cybernetics](https://en.wikipedia.org/wiki/Management_cybernetics).
 
-## 3
+3
 
 We introduce the uncertainty of what a parameter is, and can assign a probability to its value or definition. 
 
@@ -57,7 +57,7 @@ This would produce a kind of probability distribution. Given many guesses of a v
 
 The definition of a parameter can be questioned in its entirety, and probabilities can be assigned to that as well. In a given equation, this can manifest as the probability of the parameter being measured in one unit as opposed to another.
 
-## 4
+4
 
 In order to describe operationalization, it must first be operationalized. Starting with a broad measure, we can specify system-dependent degrees of freedom that allow things to exist within it.
 
@@ -72,7 +72,7 @@ Accepting bounds as unknown in such a case might still allow the decision maker 
 
 Available data might be sufficient to establish that the parameter or a region of the parameter space takes a particular value and provably not something else, which would be a positive description of freedom.
 
-## 5
+5
 
 Beyond functional terms, a dependency metric can be used to describe parameter constraints. This may come in the form of sets, directed graphs, and other structures, depending on the interpretation.
 

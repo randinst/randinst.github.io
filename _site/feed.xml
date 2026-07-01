@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-07-01T14:17:37+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Random.Institute</title><subtitle></subtitle><author><name>Antonio Banderas</name></author><entry><title type="html">Notes on operationalization</title><link href="http://localhost:4000/pos/operationalization-notes/" rel="alternate" type="text/html" title="Notes on operationalization" /><published>2026-06-30T21:34:30+02:00</published><updated>2026-06-30T21:34:30+02:00</updated><id>http://localhost:4000/pos/operationalization-notes</id><content type="html" xml:base="http://localhost:4000/pos/operationalization-notes/"><![CDATA[<p><em>You may not be able to describe a thing if you are using that thing to describe itself. You may be able to describe what it does but not what it is.</em></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-07-01T14:19:44+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Random.Institute</title><subtitle></subtitle><author><name>Antonio Banderas</name></author><entry><title type="html">Notes on operationalization</title><link href="http://localhost:4000/pos/operationalization-notes/" rel="alternate" type="text/html" title="Notes on operationalization" /><published>2026-06-30T21:34:30+02:00</published><updated>2026-06-30T21:34:30+02:00</updated><id>http://localhost:4000/pos/operationalization-notes</id><content type="html" xml:base="http://localhost:4000/pos/operationalization-notes/"><![CDATA[<p><em>You may not be able to describe a thing if you are using that thing to describe itself. You may be able to describe what it does but not what it is.</em></p>
 
 <p>Persistent controlled processes breaking down tend to produce more fallout compared to short-lived ones. If the methods of designing such processes are not considered, the accumulation-breakdown cycle is bound to continue indefinitely.</p>
 
@@ -6,7 +6,7 @@
 
 <p>The first section, not much unlike the others, is effectively an interpretation of <a href="https://en.wikipedia.org/wiki/Goodhart%27s_law">Goodhart’s law</a> that uses <a href="https://en.wikipedia.org/wiki/Map%E2%80%93territory_relation">Alfred Korzybski’s terminology</a> to make its points. The text is semiformal and could see amendment or removal of parts in the future.</p>
 
-<h2 id="1">1</h2>
+<p>1</p>
 
 <p>Concerning models and reality, it is likely that the meaning of their divergence is not the same in all scenarios, where the same mistake makes for different implications that do not necessarily have to follow the same story.</p>
 
@@ -26,7 +26,7 @@
 
 <p>– Where the notion of fundamental territory (such as certain laws) does not exist, the initial territory is completely replaced by the new territory. There is no foundation to remain.</p>
 
-<h2 id="2">2</h2>
+<p>2</p>
 
 <p>A decision-maker must operationalize both the system and himself as the interactor with all his extensions.</p>
 
@@ -38,7 +38,7 @@
 
 <p>The statements turn out to be parallel also to <a href="https://en.wikipedia.org/wiki/Management_cybernetics">Stafford Beer’s work in management cybernetics</a>.</p>
 
-<h2 id="3">3</h2>
+<p>3</p>
 
 <p>We introduce the uncertainty of what a parameter is, and can assign a probability to its value or definition.</p>
 
@@ -48,7 +48,7 @@
 
 <p>The definition of a parameter can be questioned in its entirety, and probabilities can be assigned to that as well. In a given equation, this can manifest as the probability of the parameter being measured in one unit as opposed to another.</p>
 
-<h2 id="4">4</h2>
+<p>4</p>
 
 <p>In order to describe operationalization, it must first be operationalized. Starting with a broad measure, we can specify system-dependent degrees of freedom that allow things to exist within it.</p>
 
@@ -63,7 +63,7 @@ Another subject is what to do with known bounds. Finite, unchecked, or infinite 
 
 <p>Available data might be sufficient to establish that the parameter or a region of the parameter space takes a particular value and provably not something else, which would be a positive description of freedom.</p>
 
-<h2 id="5">5</h2>
+<p>5</p>
 
 <p>Beyond functional terms, a dependency metric can be used to describe parameter constraints. This may come in the form of sets, directed graphs, and other structures, depending on the interpretation.</p>
 
