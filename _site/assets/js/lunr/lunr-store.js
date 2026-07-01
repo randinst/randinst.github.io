@@ -22,4 +22,10 @@ var store = [{
         "tags": ["Models"],
         "url": "/design/the-sindex/",
         "teaser": null
+      },{
+        "title": "The Lisp",
+        "excerpt":"“Mr. Torrence!” shouted the slightly inebriated secretary, “You’re leaving all these papers behind, in such a pickle? The cleaners here have a reputation of tossing things, you know!” Lisa continued, visibly trying to hide a tear in her shirt. “Again, I see…” Robert D. Torrence was not the most important...","categories": ["Funnies"],
+        "tags": ["Fiction"],
+        "url": "/funnies/the-lisp/",
+        "teaser": null
       }]

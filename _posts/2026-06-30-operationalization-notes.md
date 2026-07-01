@@ -1,6 +1,6 @@
 ---
 title: "Notes on operationalization"
-date: 2026-07-01T15:34:30-04:00
+date: 2026-06-30T15:34:30-04:00
 categories:
   - POS
 tags:
