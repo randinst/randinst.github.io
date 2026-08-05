@@ -2,7 +2,7 @@
 title: "In abandoned waterpark"
 date: 2025-11-20T15:34:30-04:00
 categories:
-  - Funnies
+  - Verse
 tags:
   - Short
 ---

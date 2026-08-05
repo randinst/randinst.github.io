@@ -12,9 +12,9 @@ var store = [{
         "teaser": null
       },{
         "title": "In abandoned waterpark",
-        "excerpt":"A bald man heftly built throws you in the water off the ramp, along with a man-sized iron arrow you must catch in fall. The man don’t ask but throw, as you balance into the routine from ignorance total. By the third throw, resistance mild and mind begin to go....","categories": ["Funnies"],
+        "excerpt":"A bald man heftly built throws you in the water off the ramp, along with a man-sized iron arrow you must catch in fall. The man don’t ask but throw, as you balance into the routine from ignorance total. By the third throw, resistance mild and mind begin to go....","categories": ["Verse"],
         "tags": ["Short"],
-        "url": "/funnies/abandoned-waterpark/",
+        "url": "/verse/abandoned-waterpark/",
         "teaser": null
       },{
         "title": "The Sindex",
@@ -33,5 +33,17 @@ var store = [{
         "excerpt":"You may not be able to describe a thing if you are using that thing to describe itself. You may be able to describe what it does but not what it is. Persistent controlled processes breaking down tend to produce more fallout compared to short-lived ones. If the methods of...","categories": ["POS"],
         "tags": ["Models"],
         "url": "/pos/operationalization-notes/",
+        "teaser": null
+      },{
+        "title": "Disorder as a State",
+        "excerpt":"This text came to be largely as a result of the author’s concern with a perceived systematic overstatement in certain statistics claims relating to predictability and model (un)reliability across applied domains. It is intended to clarify the distinctions in terminology found both in statistics and the more informal heuristic conversations,...","categories": ["POS"],
+        "tags": ["Models"],
+        "url": "/pos/disorder-as-a-state/",
+        "teaser": null
+      },{
+        "title": "Gerbils",
+        "excerpt":"To whom to I show restraint, Or tangle riches in the mist, Voices, distant from my cyst Rabid they may never faint Citizen before the pact Knoweth he how he must act Not without the quiet cheer, while dim Not before the Others sneer at him with sin Tangles, dangles...","categories": ["Verse"],
+        "tags": ["Short"],
+        "url": "/verse/gerbils/",
         "teaser": null
       }]
