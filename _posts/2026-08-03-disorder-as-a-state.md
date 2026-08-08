@@ -351,7 +351,7 @@ A metric that might concern decisionmaking is the rate of change in variance, an
 
 In application, it is worth remembering that a model can become more unreliable instead of credible when given more data, whether that data is used to recognize uncertainty (positive), or gets incorporated into false assumptions (negative).
 
-### Benefitting from disorder
+### Benefitting from Disorder
 
 To benefit from what is assumed to be disorder, we pose that the ‘disorder’ in question must be a form of variance that is not unpredictable. This variance would either need to be contained, or expected to break normal trends, in order to be fruitful. 
 
@@ -393,7 +393,7 @@ Complex and chaotic systems are layered across scales, potentially with differen
 
 Applied to a real system, the common and unaltered fat-tailed distribution would suggest the possibility of infinite variance. While the common Gaussian also allows arbitrarily large outcomes, its faster-decaying tail treats them as highly unlikely. As such, the analyst, wanting to reap the utility of the distributions while handling their limitations, truncates them in practice [9]. Another dilemma arises in deciding how the tails are to be truncated, since this effectively requires a separate model for the bounds. Truncation must treat the system as bounded and operational, which the notions of unbounded uncertainty contradict. We must recognize that truncating a distribution will fundamentally alter its properties, forming a different ‘final’ distribution.
 
-**Power law**
+**Power Law**
 
 Untruncated: 
 
@@ -421,7 +421,7 @@ Original mean: $\displaystyle E[X] = \int_{-\infty}^{\infty} x f(x),dx$
 
 Truncated mean: $\displaystyle E[X \mid a \le X \le b]$ which is different, and likewise for variance, skewness, and all higher moments.
 
-**Tail behavior**
+**Tail Behavior**
 
 Original: $P(X > x) \sim x^{-\alpha}$ (power law)
 
