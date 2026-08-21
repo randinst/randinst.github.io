@@ -57,3 +57,19 @@ h1, h2, h3, h4, h5, h6 {
   display: none !important;
 }
 
+@media (max-width: 768px) {
+  .page__footer-follow {
+    .social-icons {
+      li {
+        display: inline-block; /* Ensure list items are visible */
+        a {
+          display: inline-block;
+          i.fa-rss-square {
+            display: inline-block !important;
+            font-size: 1.2em; /* Make it visible if it's too small */
+          }
+        }
+      }
+    }
+  }
+}
