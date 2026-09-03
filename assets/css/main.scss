@@ -73,3 +73,32 @@ h1, h2, h3, h4, h5, h6 {
     }
   }
 }
+
+// FORCE RSS ICON TO SHOW ON MOBILE
+@media (max-width: 768px) {
+  .page__footer-follow ul.social-icons li:last-child {
+    display: inline-block !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+
+    a {
+      display: inline-block !important;
+      visibility: visible !important;
+      opacity: 1 !important;
+
+      i.fa-rss-square {
+        display: inline-block !important;
+        visibility: visible !important;
+        opacity: 1 !important;
+        font-size: 1.5rem !important;
+        color: #f26522 !important;
+      }
+    }
+  }
+
+  // Also ensure the "Feed" text shows
+  .page__footer-follow ul.social-icons li:last-child a {
+    font-size: 1rem !important;
+    visibility: visible !important;
+  }
+}
