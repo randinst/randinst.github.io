@@ -10,43 +10,43 @@ tags:
 
 Gimp pity, slum city, rump kitty committee,
 
-Uppity veracity and rickety vicinity
-Though picketing the King of Sting, my underling, virility
-Rigidity locality and vicious instability
-Insanity divinity and their compatibility
-Rapidity in cavity the radiant agility
-The vanity they make you see and spill the tea, the daily tee
-Calamity the chastity banality virality
-So ram in me my sanity vivacity sterility
-Alarming me antiquity and interim humility
-Anxiety and normalcy and hypersensitivity
-Ability cannot translate to freeforall mobility
-Opacity is quality, my raided popularity
-Reality TV—her food—and stick your rationality
-And gravity pulls abacus, the pay-per-view depravity
-And cavalry is anti-us for this congeniality
-Vitality the blasphemy and fine exceptionality
-Legality is not without a stringent personality
-Stupidity cupidity and indestructibility
-Audacity for payment and the irresponsibility
-Neutrality in face of hip and brutal practicality
-Lethality required to account for partiality
-Nobility nubility and pinnacle fertility
-Civility toxicity and grounds for liability
-Morality, polarity is unfamiliarity
-Frugality advice it always hurts in actuality
-Fatality mortality amassing in totality
-Brutality for you results in blatant bestiality
-Formality, the papers and exuberant tonality
-In praising the demise of cults of individuality
-Proximity infinity and human capability
-The Mini-Me and Maxi-Me, my avid gullibility
-Affinity, stop picking me, exhausting me, hillbilly thee
-It leaves the empty room for plausible deniability
-A duke of Holy Trinity, it seeks the femininity
-Repent for matters of the wider inconceivability
-Uncanny is this manatee consuming its voracity 
-Profanity does not translate to shock originality
-And don't you think that spinning words is intellectuality
-It's all been said, that it results in this eventuality
+Uppity veracity and rickety vicinity<br>
+Though picketing the King of Sting, my underling, virility<br>
+Rigidity locality and vicious instability<br>
+Insanity divinity and their compatibility<br>
+Rapidity in cavity the radiant agility<br>
+The vanity they make you see and spill the tea, the daily tee<br>
+Calamity the chastity banality virality<br>
+So ram in me my sanity vivacity sterility<br>
+Alarming me antiquity and interim humility<br>
+Anxiety and normalcy and hypersensitivity<br>
+Ability cannot translate to freeforall mobility<br>
+Opacity is quality, my raided popularity<br>
+Reality TV—her food—and stick your rationality<br>
+And gravity pulls abacus, the pay-per-view depravity<br>
+And cavalry is anti-us for this congeniality<br>
+Vitality the blasphemy and fine exceptionality<br>
+Legality is not without a stringent personality<br>
+Stupidity cupidity and indestructibility<br>
+Audacity for payment and the irresponsibility<br>
+Neutrality in face of hip and brutal practicality<br>
+Lethality required to account for partiality<br>
+Nobility nubility and pinnacle fertility<br>
+Civility toxicity and grounds for liability<br>
+Morality, polarity is unfamiliarity<br>
+Frugality advice it always hurts in actuality<br>
+Fatality mortality amassing in totality<br>
+Brutality for you results in blatant bestiality<br>
+Formality, the papers and exuberant tonality<br>
+In praising the demise of cults of individuality<br>
+Proximity infinity and human capability<br>
+The Mini-Me and Maxi-Me, my avid gullibility<br>
+Affinity, stop picking me, exhausting me, hillbilly thee<br>
+It leaves the empty room for plausible deniability<br>
+A duke of Holy Trinity, it seeks the femininity<br>
+Repent for matters of the wider inconceivability<br>
+Uncanny is this manatee consuming its voracity<br>
+Profanity does not translate to shock originality<br>
+And don't you think that spinning words is intellectuality<br>
+It's all been said, that it results in this eventuality<br>
 And industry, and industry, and industry
