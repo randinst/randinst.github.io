@@ -12,9 +12,9 @@ A flinching liar too, she contradicts herself to those who attempt to track her.
 
 We? Should *we* leave her alone? I don’t know!
 
-<div style="text-align: right;">[X]</div>
+<!-- <div style="text-align: right;">[X]</div> -->
 
-![Random.Institute TV](/assets/images/about-TV.png)
+<!-- ![Random.Institute TV](/assets/images/about-TV.png) -->
 
 <div style="text-align: right;">[X]</div>
 
