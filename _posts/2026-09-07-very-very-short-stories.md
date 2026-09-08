@@ -1,12 +1,14 @@
 ---
 title: "Very, Very Short Stories"
 date: 2026-09-07T15:34:30-04:00
+excerpt: 'A dark humanoid figure started stepping out of the lake. It was pregnant, and collapsed from tears.'
 categories:
   - Funnies
 tags:
   - Fiction
 ---
 
+---
 ---
 
 A dark humanoid figure started stepping out of the lake. It was pregnant, and collapsed from tears.
