@@ -1,6 +1,6 @@
 ---
 title: "A Perfect Affair"
-date: 2026-09-10T15:34:30-04:00
+date: 2026-09-09T15:34:30-04:00
 excerpt: ''
 categories:
   - Funnies
