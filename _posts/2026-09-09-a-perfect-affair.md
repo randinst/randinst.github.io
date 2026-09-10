@@ -1,6 +1,7 @@
 ---
 title: "A Perfect Affair"
 date: 2026-09-09T15:34:30-04:00
+excerpt: 'A milk carton fell on the superstore's floor tiling, having slipped from one of two trembling palms. Johnny's stricken eyes had read an e-mail from...'
 categories:
   - Funnies
 tags:
