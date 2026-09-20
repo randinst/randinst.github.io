@@ -20,13 +20,13 @@ Dare I say that these are those that matter most...<br>
 Though sometimes you or I may disagree in post
 
 We're indeed aware of such disjointed chords<br>
-It is always ages since the time we first tuned it<br>
+It is always ages since the time when we first tuned it<br>
 Me with others, you with others<br>
 As per usual, not enough good words to do it
 
 I don't know what page you're reading,<br>
 At what diner you've been eating<br>
-Then I look at my own old schedule, witty
+Then I look at my old schedule, witty
 
 Tricks disjoined, across my board<br>
 I have also lost the chord
