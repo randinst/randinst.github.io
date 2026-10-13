@@ -1,6 +1,7 @@
 ---
 title: "In Conversation"
 date: 2026-10-07T15:34:30-04:00
+excerpt: "A word is said to be worth less than a nickel, even in this economy. Then again, the tallest pile of bank notes may not amount to a sentence that's been armed with thought and intricacy. Matters such as this have never been strangers to Mehmet Ribbons, who from a young age has been a student of the colloquy."
 categories:
   - Funnies
 tags:
