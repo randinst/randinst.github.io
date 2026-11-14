@@ -13,8 +13,6 @@ tags:
 
 *This text came to be largely as a result of the author’s concern with a perceived systematic overstatement in certain statistics claims relating to predictability and model (un)reliability across applied domains. It is intended to clarify the distinctions in terminology found both in statistics and the more informal heuristic conversations, as well as to make claims of its own to help improve definitions of state spaces that allow for forecasting. The central arguments on the matter of disorder proceed from determinism and nonlinearity on physical grounds, taking into account conservation in all forms. Sections in the second half include less common examples in an attempt to gain and use intuition about relevant bounds.* 
 
----
-
 ## Introduction
 
 Given a convenient treatment of unspecified disorder as the result of states spawning outside an operational initial baseline, it can be assumed that the produced disorder inevitably becomes either a new baseline or an extension of the original baseline, deeming descriptions of states as disordered nonoperational as the initial state ceases to be a point of reference. It is the result of sustained dynamics on a system creating disorder on top of the already established disorder and continuing in infinite regress. Attempting to use such disordered states or call a state ‘disordered’ in the first place may require self-reference powerful enough to match the infinite regress where time alone will not suffice due to possible changes in the dominating scales. 
