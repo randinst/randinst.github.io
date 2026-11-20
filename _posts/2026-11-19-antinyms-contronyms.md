@@ -150,7 +150,7 @@ tags:
 
 ---
 
-*Instead or the full celebration, let's send out cards with wishes to everyone.*
+*Instead of the full celebration, let's send out cards with wishes to everyone.*
 
 ---
 

@@ -26,7 +26,7 @@ By the time the tribe finished putting out the fire, no new arrows were coming. 
 
 Because of the relatively small size of both boats, the crews were able to go over the bumps without flipping themselves over or getting stuck or dragged down. By then, both were in the area of the trench and paid no attention to one another. They navigated inside the trench, using all strength to go over the bumps on each other's initial sides. After the attempts that seemed as if they’d end it all by flipping both backward and into the depth, the boats went over the shallowest bumps and finally crossed into the other sides.   
 
-The storm was clearing, and after the death trench, there was not one remaining obstacle to face. The Gakwoni reached Ponwao's port, and the Pon people reached the island of Gakwon.
+The storm was clearing, and past the death trench, there was not one remaining obstacle to face. The Gakwoni reached Ponwao's port, and the Pon people reached the island of Gakwon.
 
 Mainlanders noted to one another how surprisingly "high up" the base of the island turned out to be, but after some rest they began climbing up it. It was somewhat high, but not that high—fifteen yards or less. Having reached the island, they cheered, pitched a tent, and lined up alcohol bottles they had brought. To one Pon's surprise, the figure of a Gakwoni native appeared from behind a stone. The island's guest gasped, jumped, and ran after the native with his knives, catching him and slicing his throat. From the direction of the native's run, a few other figures appeared to the killer. The Pon yelled to his fellow visitors, who eagerly ran with him, carrying their knives, toward the other natives.
 
